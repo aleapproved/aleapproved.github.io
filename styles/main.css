@@ -1,0 +1,17 @@
+/* Placeholder styling for your dashboard prototype */
+body {
+  margin: 0;
+  font-family: "GDS Transport", Arial, sans-serif;
+}
+
+aside {
+  padding: 15px;
+  background-color: #f3f2f1;
+  height: 100vh; /* Sidebar spans full height */
+}
+
+main {
+  background-color: #ffffff;
+  min-height: 100vh;
+  padding: 15px;
+}
